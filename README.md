@@ -4,3 +4,27 @@ Product Quality standards commonly known as ISO/IEC 25010. ISO (the Internationa
 Suitability, Performance Efficiency, Compatibility, Usability, Reliability, Security, Maintainability and Portability to provide a current situation in identifying its critical success factors, barriers, and benefits of implementation.   
 This is where the researcher will compile their findings and synthesize them in order to determine the core problems and issue that respondents have identified up to this point. The researcher chooses to use quantitative research, because variables are defined and identified, and then relevant data is collected from study participants. The strength of this type of research is that the data is in numeric form, making it easier to examine. In additional, Data can be incredibly constant, precise, and reliable. With the help of Likert scale, we can identify the grades given by the respondents on the current state of the system and the proposed system. 
 
+
+Data Gathering Procedure  
+  The proposed capstone project research will be conducted out and distributed through a survey system, with the respondents filling out MS forms and sent it via email to the respondents. Additionally, the researcher performed a one-hour online interview with four individuals: The Task Administrator of the DM team, two managers, and one staff. This entails consulting specialists to learn more about the area of concern by observing, interacting, and empathizing with these people to learn about their experiences with the existing available solution and to obtain a more intimate grasp of the issues involved. The researcher recognizes that there is still room for improvement in the procedure, and that limited features will have an impact on the research study's implementation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Statistical Data Analysis and Procedure  
+  The information gathered will be analyzed both descriptively and inferentially. In addition, the number of responders in each part will be determined using frequency distribution and percentage. Descriptive statistics are crucial because it would be difficult to visualize what the data was indicating if we just presented it as raw data, especially if there was a lot of it. As a result, descriptive statistics helps us to present data in a more meaningful fashion, making data interpretation easier. The researcher will utilize this statistics method to evaluate if the data is normal during the examination. In this research study, descriptive statistics will be utilized to characterize the essential aspects of the data. It has the ability to produce basic summaries of the sample and measures Together with simple graphics 
+analysis, they form the basis of virtually every quantitative analysis of data.  
+In addition, the researcher will utilize the t-test as a statistical tool to see if there is a 
+significant difference between the current system and the planned capstone study implementation. The T-Test is used to see if a technique has an effect on both samples and if the groups are different from one another. It allows the mean of two systems to be compared. We can determine and identify whether the implemented system is approved or rejected by the respondents and beneficiaries based on the comparison. We can identify if there is a significant difference between the current system and the proposed system by using comparative analysis comparing the results of the questionnaire prepared by the proponents to be answered by different respondents such as IT experts,  Task Administrators, managers, and students.  
+
+With the given statistical method based on the grade given by the respondent we were able to answer the statement of the problem #3 if there is a significance between the current system and the proposed system. 
+The respondent is to establish an acceptance level of Type I error at standard deviation ( ) = 0.05, wherein any P-value greater than 0.05 means the process is normal. While P-value is less than 0.05 means otherwise.  A p-value is a measure of the probability that an observed difference could have occurred just by random chance. The standard deviation is a statistic that measures the dispersion of a dataset relative to its mean and is calculated as the square
+
+
+
+
+

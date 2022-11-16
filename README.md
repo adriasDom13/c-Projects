@@ -31,3 +31,8 @@ The above system workflow model it explains and summarized the flow and the conc
  
 
 The above entity relationship diagram (ERD) is a graphical representation that depicts the relationship between the User Types, Activity types, Users, Utilization, Attendance, and Leaves in the proposed capstone projects it also shows the value of the table in the database. 
+
+
+The interactions between the system and its actors are depicted and identified in the above use case diagram. In use-case diagrams, the use cases and actors define what the system does and how the actors interact with it, but not how the system works inside. The above diagram also depicts the three categories of actors:  Task Administrator, managers, and staff, as well as the proposed capstone project's eight key functions. 
+
+

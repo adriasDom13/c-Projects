@@ -77,6 +77,15 @@ Adamson University.  I'm doing a survey of DMs’  Task Administrators, Staffs, 
  Your survey responses will be confidential, and results from this study will only be released in aggregate. Your information will be kept private. If you have any queries concerning the survey or the procedures, please contact Dominique Q. Adrias at (+63) 967-615-3379 or email  at Dominique.Adrias@adamson.edu.ph. 
 
 
+As businesses move towards digitalization, data and technology now is the talk of the decade for modern enterprise organizations both in public and private sectors. Whether a business value it or not, every business has to deal with collecting and managing massive data coming in and out of an organization. This is where technology play an important role to resolve conflict and issues related to data management. These refers to computer aided systems, software packages, internet, and other infrastructure that enables an organization's core capabilities. Forward-thinking organizations view data and technology as a competitive advantage against their competitors that allows them to move ahead and work smarter to achieve business goals.
+Managing marketing activities involves various assignment purposedly designed to take advantage by getting clients on board with the products and services an organization offers. Business engagement, marketing campaign, trips and meetings is where most of the activities revolves in the space of Digital Marketing. Marketing campaigns generate huge amount of transaction, customer information and preferences. These types of activities have to be managed by the workforce behind every marketing operations. Employee utilization is important for managers and marketing staff to efficiently align their capacity to handle different marketing activities conducted by the partners of the firm who win and pursuit business opportunities. Back-end support is vital for business engagement to push through its goal of successfully delivering product and services to the clients. Employee’s capacity to support such task matters to deliver the requirement on time and efficiently.  
+For the capstone project paper, the author researched and demonstrate how significant employee utilization on our today’s modern world. The aim of the capstone project is to develop a system that enable users to log their daily marketing activities and provide real time utilization report using a computer software and an interactive report data visualization. Through this capstone project the author also show how data visualization can help other organization especially the IT Consulting industry that has a massive amount of data. 
+
+
+
+
+
+
 
 
 

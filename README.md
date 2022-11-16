@@ -36,3 +36,7 @@ The above entity relationship diagram (ERD) is a graphical representation that d
 The interactions between the system and its actors are depicted and identified in the above use case diagram. In use-case diagrams, the use cases and actors define what the system does and how the actors interact with it, but not how the system works inside. The above diagram also depicts the three categories of actors:  Task Administrator, managers, and staff, as well as the proposed capstone project's eight key functions. 
 
 
+The proposed study will go through a proof-of-concept (POC) design implementation of data distribution, there will be not much complicated task in the designing code and data of this propose capstone study. Also, all data of this system will be going to deploy in a every user’s machine and a cloud-based platform for data storing. One of the project's deliverables in this stage is a desktop software prototype. It will be presented to the recipient in order to suit their requirements. 
+
+
+

@@ -38,5 +38,22 @@ The interactions between the system and its actors are depicted and identified i
 
 The proposed study will go through a proof-of-concept (POC) design implementation of data distribution, there will be not much complicated task in the designing code and data of this propose capstone study. Also, all data of this system will be going to deploy in a every user’s machine and a cloud-based platform for data storing. One of the project's deliverables in this stage is a desktop software prototype. It will be presented to the recipient in order to suit their requirements. 
 
+Development - For the recommended design implementation, C# programming language can be used and DAX function of Power BI for reporting. The proposed capstone research is a desktop application can be accessed through the use of an installed application. The development team and operations must be taught in its use, and the researcher utilized MSSQL to store all data in the database. At this time, the ERD will be moved to a real database. As part of this phase's deliverables, the deployed staging system will be used to demonstrate to the beneficiary. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

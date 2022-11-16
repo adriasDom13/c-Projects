@@ -44,6 +44,25 @@ Development - For the recommended design implementation, C# programming language
 The suggested capstone project will be built utilizing the Dot net framework and C# programming language, a popular open-source Windows application framework that is mostly used for desktop application development. The proposed capstone research is a. MSSQL Azure Database was chosen as the system's data base, which will be kept on the cloud. 
 
 
+The data flow diagram illustration above shows the flow of all data from three access levels within the system: The Task Administrator, Staff, and Managers. It also shows all the process on the system and how data will be stored and generated. 
+ The administration, it demonstrates how the Task Administrator will log and provide activity details. In addition, and security feature the Task Administrator also has an additional access to see and view the unassigned activities on the system to ensure no task are left behind from the system. The staff can acknowledge request and start working on it until it is completed. It also shows how managers can get individual and team utilization to optimize staff capacity to do tasks. 
+ 
+ 
+Data Analysis and Visualization 
+After the visitation and discussion with the Digital marketing team, which is the beneficiary of the capstone project, we discussed that for the data analysis with the data visualization feature of the system, we are going to analyze all the data that has been processed and input to the system and transform all data into graphical representation using interactive visualization tools as a feature of the entire system. 
+The below data is the one that will be analyzed and transformed into a graphical representation. 
+1.)	How many activities were acknowledged and not acknowledged? 
+2.)	Identify those staff with low and high utilization rate.
+3.)	How much time an individual or team spent in a daily and weekly basis for billable work? 
+4.)	Which individual or team has the capability to get more task? 
+5.)	Identify the top 10 requestors with higher utilization demand.
+6.)	What kind of activity gets the highest utilization?
+7.)	Count in progress task, completed by staff and team level.
+8.)	Show demand trend in a monthly and quarterly basis.
+•	Overutilize – 90% above
+•	Fully Utilize – 70% to 89.9% 
+•	Underutilize – Below 70%  
+
 
 
 

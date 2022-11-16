@@ -41,7 +41,7 @@ The proposed study will go through a proof-of-concept (POC) design implementatio
 Development - For the recommended design implementation, C# programming language can be used and DAX function of Power BI for reporting. The proposed capstone research is a desktop application can be accessed through the use of an installed application. The development team and operations must be taught in its use, and the researcher utilized MSSQL to store all data in the database. At this time, the ERD will be moved to a real database. As part of this phase's deliverables, the deployed staging system will be used to demonstrate to the beneficiary. 
 
 
-
+The suggested capstone project will be built utilizing the Dot net framework and C# programming language, a popular open-source Windows application framework that is mostly used for desktop application development. The proposed capstone research is a. MSSQL Azure Database was chosen as the system's data base, which will be kept on the cloud. 
 
 
 

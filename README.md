@@ -71,6 +71,10 @@ The Software application have three user access the Staff, Managers, and the  Ta
 Another purpose of the study is to show and demonstrate how important the data visualization and graphical representation in our system today especially on the organization that is having a massive amount of data and to the IT industry. 
 
 
+ I am performing survey to get insight into "Smart Employee Resource Allocation and Capacity Optimization Analysis System" for EY GDS Manila Digital Marketing Team  and to identify if there is a significant between the current system and the proposed project in order to fulfill the final requirements for the Degree Master in Information Technology at 
+Adamson University.  I'm doing a survey of DMs’  Task Administrators, Staffs, Managers, and IT Experts. 
+ This research is fully voluntary on your side. There are no risks affiliated with this project. However, if you don't feel comfortable answering any of the questions, you can withdraw the survey at any time or skip a question. Your feedback is very appreciated and will be really beneficial. 
+ Your survey responses will be confidential, and results from this study will only be released in aggregate. Your information will be kept private. If you have any queries concerning the survey or the procedures, please contact Dominique Q. Adrias at (+63) 967-615-3379 or email  at Dominique.Adrias@adamson.edu.ph. 
 
 
 

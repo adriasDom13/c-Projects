@@ -65,6 +65,10 @@ The below data is the one that will be analyzed and transformed into a graphical
 
 
 
+The main purpose of the study is to design and develop a Desktop application software  
+Smart Employee Resource Allocation and Capacity Optimization Analysis System for EY GDS Digital Marketing team. The software application consists of seven modules the Activity module, Employee module, Requestor module, Attendance & PTO module, Dashboard, PTO module, Task Administration.  
+The Software application have three user access the Staff, Managers, and the  Task Administrator Access. The purpose of the system is to have standard process of, storing activity request details and duration time spent to analyze individual or team capacity to provide support using interactive data visualization tools of the system. With this capstone project it can help the managers to ensure resource are optimized effectively.  
+Another purpose of the study is to show and demonstrate how important the data visualization and graphical representation in our system today especially on the organization that is having a massive amount of data and to the IT industry. 
 
 
 

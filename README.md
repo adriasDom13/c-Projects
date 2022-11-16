@@ -27,4 +27,6 @@ The respondent is to establish an acceptance level of Type I error at standard d
 
 
 
+The above system workflow model it explains and summarized the flow and the concept of the propose project study. It shows how users can interact with the system starting from the log in of user credential which required the user to input his/her email address and password. it also demonstrates how users can reset password by entering their email and how system match it on the record from the data and sending them an email containing their password. It also illustrates on the work flow the different type of user’s access levels which are the Task Administrator, Staff and the Manager, together with their different access privileged on the system, which is users can create new activities, acknowledge new task, create and manage activities, generate reports, amen task details 		and an access individual and team utilization. 
+ 
 

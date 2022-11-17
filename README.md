@@ -11,8 +11,7 @@ Data Gathering Procedure
  
  
  
- 
- 
+
  
  
 Statistical Data Analysis and Procedure  
@@ -82,6 +81,33 @@ Managing marketing activities involves various assignment purposedly designed to
 For the capstone project paper, the author researched and demonstrate how significant employee utilization on our today’s modern world. The aim of the capstone project is to develop a system that enable users to log their daily marketing activities and provide real time utilization report using a computer software and an interactive report data visualization. Through this capstone project the author also show how data visualization can help other organization especially the IT Consulting industry that has a massive amount of data. 
 
 
+
+
+
+
+
+
+Synthesis for RRL 
+1. This case support the importance of tracking employee attendance and productivity using an automated process through RFID. 
+2. Employee's productivity is a the center of this case as it is relating to where people spend most of their time while working in the office. Capturing time arrived and time when an employee leave work is related to this project.
+3. Innovation through technology can increase employee productivity and at the same time help the business track employee hours of effectively. This will strengthen the importance of having a utilization dashboard for better decision making.
+4. The importance of tracking employee's activity remotely using employee utilization software mirror the idea of building a software intended to employee who's currently working from home.
+5. Using a time tracking software proves to be the best solution to measure employee capacity to do the work as what this study also aim to achieve.
+6. Developing a software that is able to capture employee's activity also provide insight for the leadership to have further quality check on how work are being delivered to the customers. Data captured will be benificial for perfromance audit.
+7. This research study can also serve as an early warning indicator for attrition by looking at employee's utilization trend. Identifying over-utilize personnel can mitigate the possibilities of an employee leaving the organization due to work overload. The study can back up this case using the data it can generate.
+8. 
+9.Investing to the best interest of employee can give more value to the organization. This case support the importance of knowing how to better compensation and provide R&R program through employee productivity performance is necessary by leveraging employee performance records.
+10. Looking at the employee utilization dashboard can help managers to promoto work life balance to those that aren't utilizing the paid leaves and to employees with high utilization rate. Ensuring employee welfare and time for family is making a lot of sense.
+11. Optimizing employee capacity to do the job is vital for the quality of work being delivered. This case support the main objective of employee utilization dashboard to allocate task effectively.
+12. 
+13. Employee will remain if work assigned is justifiable and satisfactory. Over utilizing people won't help them perform better which is why knowing the capacity of your workforce is important and that is where this study is trying to solve.
+14. Employee's duty and responsibility are common factors that contributes to their performance. Having a a productivity management system will help managers delegate work base on the capacity of someone to perform the job.
+15. This study will provide the management to support employee needs and address required help to ensure nothing is missing for them to perform well. That is how this study supports the topic for this research.
+16. Employee's attachment and detachement from work should be taken seriously. The researcher's topic will help upper management to strategize and plan accordingly base on how emplyoyee perform through the information data a software can generate.
+17. 
+18. 
+19.
+20. 
 
 
 

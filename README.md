@@ -115,6 +115,10 @@ Synthesis for RRL
 
 
 
+NAME:   DOMINIQUE Q. ADRIAS  
+LinkedIn:   linkedin.com/in/dominique-adrias 
+   
+Dominique is a student in Adamson University and currently taking Master in Information Technology (MIT). He is currently employed in a multi-practice firm as a Service Excellence Deputy Manager, under Identity Enablement Services with 8 years of  IT experience and expertise in Software development, Business Process Management and Data Analytics. Dominque lead GDS MBA Innovation projects and manage Data Analytics projects for External clients developing business solutions across EY GDS and EY Partner firms. He also is a member of Asia Pacific Data Science team and highly involved in EY Space Technology projects. Dominique completed a Bachelor degree in Universidad de Manila taking Bachelor of Science in Business Administration. 
 
 
 
